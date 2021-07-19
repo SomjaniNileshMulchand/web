@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    color: rgb( 227, 240, 134,);
+    display: flex;
+    justify-content: center;
+}
+p{
+    line-height: 1.5rem;
+}
+h2{
+    text-align: center;
+}
+#home{
+   /* background-color: rgba(235, 211, 236,0.2); */
+   background-color: cadetblue;
+}
+/* link space */
+/* .links{
+    display: flex;
+    list-style: none;
+}
+ul li{
+    margin: 10px;
+}
+.button1{
+    background-color: rgba(123, 201, 204, 0.3);
+    border: 4px solid rgb(230, 230, 111);
+}
+.button1:hover{
+    background-color: aqua;
+}
+.button2{
+    background-color: rgba(115, 150, 202, 0.3);
+    border: 4px solid rgb(149, 230, 111);
+}
+.button2:hover{
+    background-color: rgb(0, 255, 55);
+}
+.button3{
+    background-color: rgba(188, 123, 204, 0.3);
+    border: 4px solid rgb(111, 192, 230);
+}
+.button3:hover{
+    background-color: rgb(190, 94, 94);
+}
+.button4{
+    background-color: rgba(206, 120, 139, 0.3);
+    border: 4px solid rgb(186, 111, 230);
+}
+.button4:hover{
+    background-color: rgb(255, 0, 234);
+} */
+
+/* img{
+    border-radius: 10rem;
+}  */
+.ho{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.im{
+    width: 40vw;                      
+    height: 50vh;                     
+    margin-top: 4%;
+}
+.mg{
+    width: 32vw;                    
+    height: 44vh;                   
+    text-align: center;
+}
+.deal{
+    display: flex;
+    text-align: center;
+    line-height: 1rem;
+}
+/* .mgi{
+    width: 32vw;                  
+    height: 44vh;               
+    text-align: center;
+} */
+.deale{
+    display: flex;
+    text-align: center;
+    line-height: 1rem;
+}
+/* .mgie{
+    width: 32vw;                 
+    height: 44vh;               
+} */
+.dealee{
+    display: flex;
+    text-align: center;
+    line-height: 1rem;
+}
+.elem{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background-color: rgba(181, 215, 195, 0.2);
+}
+.eleme{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background-color: darkseagreen;       /*183,185,185*/
+}
+ul li a{
+    text-decoration: none;
+}
+.butt{
+    background-color: 207, 145, 145;
+    border: none;
+    color: white;
+    padding: 16px 12px;       /* 32px*/
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.buttoni{
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(146, 211, 146);
+}
+.buttoni:hover{
+    background-color: rgb(146, 211, 146);
+    color: white;
+}
+.buttonii{
+    background-color: white;
+    color: #000;
+    border: 2px solid rgb(117, 133, 206);
+}
+.buttonii:hover{
+    background-color: rgb(117, 133, 206);
+    color: white;
+}
+.buttoniii{
+    background-color: white;
+    color: #000;
+    border: 2px solid rgb(217, 138, 219);
+}
+.buttoniii:hover{
+    background-color: rgb(217, 138, 219);
+    color: white;
+}
+.buttoniv{
+    background-color: white;
+    color: #000;
+    border: 2px solid rgb(223, 138, 138);
+}
+.buttoniv:hover{
+    background-color: rgb(223, 138, 138);
+    color: white;
+}
+.fbutton{
+    display: flex;
+    justify-content: space-around;
+}
+.tp{
+    text-decoration: none;
+}
+/* @media (max-width: 1040px){
+    div{
+        text-align: center;
+    }
+}
+@media (max-width: 1040px){
+    img{
+        width: 100%;
+        height: 100%;
+
+    }
+}
+@media (max-width: 1040px){
+    .mg,.mgi,.mgie {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+
+    }
+}
+@media (max-width: 1040px) {
+    .ho{
+        display: block;
+
+    }
+}
+@media (max-width: 1040px) {
+    .elem{
+        display: block;
+
+    }
+}
+@media (max-width: 1040px) {
+    .eleme{
+        display: block;
+
+    }
+}
+@media (max-width: 1040px) {
+    .mg{
+        display: block;
+        text-align: center;
+    }
+} */
